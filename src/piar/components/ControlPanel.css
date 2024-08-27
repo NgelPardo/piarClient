@@ -1,0 +1,8 @@
+.custom-switch {
+  display: flex;
+  align-items: center;
+}
+
+.custom-switch .icon {
+  margin-right: 8px; /* Espacio entre el icono y el texto */
+}

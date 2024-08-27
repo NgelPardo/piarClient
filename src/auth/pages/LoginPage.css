@@ -1,0 +1,13 @@
+h2{
+    color: #3C3C3C;
+  }
+  
+.btn-log{
+    background-color: #508bfc;
+    color: #fff;
+}
+
+.btn-log:hover{
+    background-color: #3670D4;
+    color: #fff;
+}

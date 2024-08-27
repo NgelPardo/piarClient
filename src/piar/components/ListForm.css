@@ -1,0 +1,18 @@
+@media (max-width: 767px) {
+  .table-header {
+    display: flex;
+  }
+
+  .row-responsive {
+    display: flex;
+  }
+}
+
+@media (min-width: 768px) {
+  .table-header {
+    display: none;
+  }
+  .row-responsive{
+    display: none;
+  }
+}

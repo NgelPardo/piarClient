@@ -1,0 +1,38 @@
+[
+    {
+        "id_piar": 1,
+        "id_est": 1,
+        "id_prof": 1,
+        "fec_dil": "2023/01/01",
+        "nom_dil": "Laura Torres",
+        "estudiante": "Emmaline Clampton",
+        "identificacion": "10-1667448",
+        "fechaCreacion": "2023/04/14",
+        "estado": "Completado",
+        "curso": 125
+    },
+    {
+        "id_piar": 2,
+        "id_est": 2,
+        "id_prof": 2,
+        "fec_dil": "2023/01/01",
+        "nom_dil": "Diego Camargo",
+        "estudiante": "Rafe Gollard",
+        "identificacion": "01-4767791",
+        "fechaCreacion": "2023/02/15",
+        "estado": "Completado",
+        "curso": 364
+    },
+    {
+        "id_piar": 3,
+        "id_est": 3,
+        "id_prof": 3,
+        "fec_dil": "2023/01/01",
+        "nom_dil": "Sofia Gutierres",
+        "estudiante": "Gilberto Arnholdt",
+        "identificacion": "67-3754928",
+        "fechaCreacion": "2022/11/12",
+        "estado": "Completado",
+        "curso": 714
+    }
+]
